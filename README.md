@@ -7,6 +7,6 @@
 	<a href="https://orcid.org/0000-0002-9099-0436"><img src="orcid.svg" alt="ORCID"></a>
 </p>
 
-Меня зовут Борис Орехов. Я занимаюсь научными исследованиями и иногда говорю про них в популярном жанре. Еще я пишу код, как полезный, так и развлекательный.
+Меня зовут Борис Орехов. Я занимаюсь [научными исследованиями](https://www.semanticscholar.org/author/Boris-Orekhov/2080424505) и иногда говорю про них [в популярном жанре](https://postnauka.org/themes/orehovb). Еще я пишу код, как полезный, так и развлекательный.
 
-Я опубликовал [десятки моделей на HuggingFace](https://huggingface.co/nevmenandr), мой основной язык Python, но иногда я совершаю набеги и в другие языки, в том числе [эзотерические](https://sysblok.ru/blog/jezoterika-programmirovanija/).
+Я опубликовал [десятки моделей на HuggingFace](https://huggingface.co/nevmenandr), мой основной язык Python, но иногда я совершаю набеги и в другие языки, в том числе [эзотерические](https://sysblok.ru/blog/jezoterika-programmirovanija/). Про фантастику и NLP можно почитать [мои тексты на Хабре](https://habr.com/ru/users/nevmenandr/publications/articles/). А еще можно послушать мои подкасты [про литературу](https://nevmenandr.github.io/nonbrevia/) и про [университеты](https://universitates.ru/).
