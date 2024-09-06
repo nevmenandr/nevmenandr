@@ -19,7 +19,7 @@
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/5009934?s=200&v=4"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/15658638"></code>
+<a href="https://huggingface.co/nevmenandr?search_models=tensorflow"><code><img height="30" src="https://avatars.githubusercontent.com/u/15658638"></code></a>
 
   <a href="https://universitates.ru/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/streaming/podcast.svg" alt="podast" style="vertical-align:top; margin:6px 4px">
